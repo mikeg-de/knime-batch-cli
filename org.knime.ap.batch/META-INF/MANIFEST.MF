@@ -2,12 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: KNIME Batch Executor
 Bundle-SymbolicName: org.knime.ap.batch;singleton:=true
-Bundle-Version: 5.9.0.qualifier
+Bundle-Version: 5.10.0.qualifier
 Bundle-ClassPath: .
 Bundle-Vendor: KNIME AG, Zurich, Switzerland
 Require-Bundle: org.eclipse.core.resources;bundle-version="[3.22.200,4.0.0)",
- org.knime.product;bundle-version="[5.9.0,6.0.0)",
- org.knime.core;bundle-version="[5.9.0,6.0.0)"
+ org.knime.product;bundle-version="[5.10.0,6.0.0)",
+ org.knime.core;bundle-version="[5.10.0,6.0.0)"
 Bundle-ActivationPolicy: lazy
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Eclipse-BundleShape: jar
