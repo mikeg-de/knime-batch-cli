@@ -212,7 +212,8 @@ public class BatchExecutorImpl implements IBatchExecutor {
      */
     protected boolean m_stopOnError = true;
 
-    private static final NodeLogger LOGGER = NodeLogger.getLogger(BatchExecutorImpl.class);
+    // log under old fully-qualified name for backwards-compatibility
+    private static final NodeLogger LOGGER = NodeLogger.getLogger("org.knime.core.node.workflow.BatchExecutor");
 
     private static class Option {
         private final int[] m_nodeIDs;
