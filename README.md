@@ -1,7 +1,7 @@
 # KNIME® Batch Execution
 
 [![Jenkins](https://jenkins.knime.com/buildStatus/icon?job=knime-ap-batch%2Fmaster)](https://jenkins.knime.com/job/knime-ap-batch/job/master/)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=KNIME_knime-ap-batch&metric=alert_status&token=55129ac721eacd76417f57921368ed587ad8339d)](https://sonarcloud.io/summary/new_code?id=KNIME_knime-ap-batch)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=knime_knime-ap-batch&metric=alert_status&token=55129ac721eacd76417f57921368ed587ad8339d)](https://sonarcloud.io/summary/new_code?id=knime_knime-ap-batch)
 This repository is maintained by the [KNIME Core Development Team](mailto:ap-core@knime.com).
 
 ### Content
