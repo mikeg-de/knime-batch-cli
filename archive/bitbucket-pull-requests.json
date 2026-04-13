@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "source": "bitbucket",
+    "title": "AP-25314: batch execution code+test moved from knime-core",
+    "state": "MERGED",
+    "author": "Bernd Wiswedel",
+    "createdAt": "2025-11-12",
+    "mergedAt": "2025-11-13",
+    "body": "Initial extraction of BatchExecutor from knime-core into standalone knime-ap-batch repository"
+  },
+  {
+    "id": 2,
+    "source": "bitbucket",
+    "title": "AP-25314: renamed update site category (\"KNIME Batch Execution\")",
+    "state": "MERGED",
+    "author": "Bernd Wiswedel",
+    "createdAt": "2025-11-13",
+    "mergedAt": "2025-11-13",
+    "body": "Renamed the update site category"
+  },
+  {
+    "id": 3,
+    "source": "bitbucket",
+    "title": "DEVOPS-3612: Bump AP Parent POM to 5.10.0",
+    "state": "MERGED",
+    "author": "Leonard Woerteler",
+    "createdAt": "2025-11-26",
+    "mergedAt": "2025-11-26",
+    "body": "Version bump for AP 5.10.0"
+  },
+  {
+    "id": 4,
+    "source": "bitbucket",
+    "title": "DEVOPS-3611: setting SKIP_COMPOSITES to true and removing us.zip creation...",
+    "state": "MERGED",
+    "author": "Madhu Subramanya",
+    "createdAt": "2025-12-04",
+    "mergedAt": "2025-12-04",
+    "body": "Build pipeline adjustments"
+  }
+]
